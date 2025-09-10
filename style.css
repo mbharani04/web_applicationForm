@@ -1,0 +1,76 @@
+style {
+  font-family: system-ui;
+  color: black;
+  text-align: left;
+}
+body {
+  width: 50%;
+  padding: 10px 60px;
+  margin: 100px 0;
+  display: inline-block;
+  border-style: solid;
+  border-color: #a358ee;
+  border-radius: 10px;
+  border-width: 30px;
+}
+
+input[type="submit"] {
+  width: 70%;
+  background-color: #703ae4;
+  color: white;
+  padding: 15px 20px;
+  margin: 8px 0;
+  border: black;
+  border-radius: 4px;
+  cursor: pointer;
+}
+input[type="first_name"] {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin: 5px 1;
+  border: 2px solid #808080;
+  border-radius: 5px;
+  text-align: center;
+}
+
+input[type="characters"] {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin: 5px 1;
+  border: 2px solid #808080;
+  border-radius: 5px;
+  text-align: center;
+}
+input[type="email"] {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin: 5px 1;
+  border: 2px solid #808080;
+  border-radius: 5px;
+  text-align: center;
+}
+
+input[type="number"] {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin: 5px 1;
+  border: 2px solid #808080;
+  border-radius: 5px;
+  text-align: center;
+}
+input[type="password"] {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin: 5px 1;
+  border: 2px solid #808080;
+  border-radius: 5px;
+  text-align: center;
+}
+input[type="cpassword"] {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin: 5px 1;
+  border: 2px solid #808080;
+  border-radius: 5px;
+  text-align: center;
+}
